@@ -48,3 +48,11 @@ body {
   gap: 2.4rem;
 }
 
+.header__link {
+  font-weight: 500;
+  transition: color var(--transition-fast);
+}
+
+.header__link:hover {
+  color: var(--color-primary);
+}
