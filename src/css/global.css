@@ -42,3 +42,8 @@ body {
 .header__logo span {
   color: var(--color-secondary);
 }
+
+.header__menu {
+  display: flex;
+  gap: 10px;
+}
