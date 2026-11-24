@@ -45,5 +45,6 @@ body {
 
 .header__menu {
   display: flex;
-  gap: 10px;
+  gap: 2.4rem;
 }
+
